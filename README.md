@@ -1,7 +1,5 @@
 # 左右滑动无限加载周日历
 
-# 访问地址
-http://aa.mmys.fun/
 
 > A Vue.js project
 # 网上难寻的基于Vue的滑动日历
